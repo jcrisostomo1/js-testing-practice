@@ -1,0 +1,1 @@
+Small project, built as assignment to learn about javascript testing using Jest and Test Driven Principles(TDD), as part of the curriculum for The Odin Project.
