@@ -1,4 +1,4 @@
-import capitalize from '../codes/capitalize.js'
+import capitalize from '../codes/capitalize.js';
 
 test('christopher to be Christopher', () => {
   expect(capitalize('christopher')).toBe('Christopher');

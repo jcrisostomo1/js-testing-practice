@@ -1,4 +1,4 @@
-import Calculator from '../codes/Calculator.js'
+import Calculator from '../codes/Calculator.js';
 
 let calc = new Calculator();
 
